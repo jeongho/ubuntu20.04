@@ -9,4 +9,7 @@ docker pull jeongho/ubuntu20.04
 docker images
 docker run -it jeongho/ubuntu20.04:latest
 
+
+docker exec -it eager_gould bash
+
 ```
